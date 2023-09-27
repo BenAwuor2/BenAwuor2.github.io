@@ -36,7 +36,7 @@ const Works = () => {
                 </div>
                                 
             </div>
-            <button className="workbtn">See More</button>
+            <a href="https://github.com/BenAwuor2"><button className="workbtn">See More</button></a>
         </section>
     )
 }

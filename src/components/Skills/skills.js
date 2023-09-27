@@ -8,7 +8,7 @@ const Skills = () => {
     return (
         <section id="skills">
             <span className="skillTittle"> What I do</span>
-            <span className="skillDesc"> I am a competent Web developer who leverage technologies listed below to develop fully responsive and interractive websites</span>
+            <span className="skillDesc"> I turn ideas into reality by leveraging this technologies listed below to develop fully responsive and interractive websites</span>
             <div className="skillBars">
                 <div className="skillBar">
                     <img src={react} alt='react' className="skillBarImg"/>
