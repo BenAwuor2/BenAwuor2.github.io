@@ -48,8 +48,17 @@
     .skillBarText>p {
         font-size: 2vw;
     }
+    /* #skills {
+        right: -10vw;
+    } */
 }
-@media screen and (max-width: 460px;) {
+@media screen and (max-width: 460px) {
+
+    /* #skills {
+        align-content: flex-start;
+        text-align: center;
+    } */
+
     .skillBarText>p {
         font-size: 3vw;
     }
